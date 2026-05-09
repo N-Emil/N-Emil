@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Emil Nagiyev 👋 </h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=996&color=007ACC&center=true&vCenter=true&width=435&lines=Full-Stack+developer;Java+•+ReactJS+•+SQLite" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=996&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+•+ReactJS+•+SQLite" alt="Typing SVG" />
   </a>
 </div>
 
