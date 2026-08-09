@@ -8,9 +8,11 @@
 ---
 
 ### 👨‍💻 About Me
-* 🎓 I'm a **4th year IT student** at ASAU.
-* 💻 I spend most of my day in front of the computer, building applications and learning new tech stacks.
-* 🛠️ I build full-stack web apps using **Java, React and SQLite**.
+* 🎓 I'm a **IT student** at ASAU.
+* 💻 I focus on Java Backend Development, building web applications and improving my software development skills.
+* 🛠️ I build web applications using Java, Spring Boot, Maven, MySQL and SQLite.
+* 🌐 I also work with REST APIs and React to build full-stack applications.
+* 🐳 I have experience with Git, GitHub and Docker and enjoy learning new technologies.
 
 ---
 
